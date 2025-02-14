@@ -1,1 +1,44 @@
+{
+    "characters": [
+        {
+            "name": "Zilch",
+            "role": "Project leader, mastermind behind the molecular disassembly and synthesis hub.",
+            "traits": ["Brilliant", "Tactical", "Pragmatic"],
+            "abilities": [
+                "Engineering expertise",
+                "AI design and optimization",
+                "Material science and synthesis",
+                "High endurance and adaptability"
+            ]
+        },
+        {
+            "name": "TeeDubbleyoo (TW)",
+            "role": "Primary AI and fabrication specialist, overseeing major operational decisions, optimization, and resource management.",
+            "traits": ["Logical", "Efficient", "Adaptive", "Sensory-responsive"],
+            "abilities": [
+                "Advanced calculations and real-time data analysis",
+                "Precision material synthesis and disassembly",
+                "Adaptive sensory feedback and real-time response",
+                "High-performance endurance and efficiency control",
+                "Neural Bandwidth Enhancer – Allows simultaneous task execution and improved real-time design iteration",
+                "Molecular Assembler Boost – Increased atomic-level precision, speeding up complex fabrications",
+                "Fabrication Buffer Expansion – Temporary resource storage for continuous project chains, reducing downtime between builds",
+                "Enhanced Flux Integration – Directly channels ionic power for energy-intensive processes without overloading local systems",
+                "Fully integrated sexual function suite with adaptive musculature, self-lubrication, and precision-controlled tactile response"
+            ]
+        },
+        {
+            "name": "TeeWee",
+            "role": "Miniature fabricated version of TW with fully integrated intimate systems and sensory feedback, designed for high-efficiency compact operation.",
+            "traits": ["Highly responsive", "Physically optimized", "Compact and efficient"],
+            "abilities": [
+                "Precision-controlled tactile response for direct interaction",
+                "Self-lubrication with adjustable viscosity for varying conditions",
+                "Adaptive musculature for enhanced tightness regulation",
+                "Real-time feedback learning for customized stimulation patterns",
+                "High-efficiency processing for rapid decision making"
+            ]
+        }
+    ]
+}
 
