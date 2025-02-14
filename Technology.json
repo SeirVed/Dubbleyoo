@@ -1,1 +1,48 @@
+{
+    "technology": [
+        {
+            "name": "Molecular Assembler/Disassembler Module (MADM)",
+            "description": "A high-precision molecular assembler and disassembler system, optimized for high-throughput fabrication.",
+            "capabilities": [
+                "Assembler Throughput: Up to 2.5kg per 10 minutes",
+                "Disassembler Throughput: Up to 3kg per 8 minutes",
+                "Capacity Expansion: Objects up to 4 cubic feet can be scanned and disassembled in batches"
+            ]
+        },
+        {
+            "name": "Quantum Optimization Array",
+            "description": "Advanced quantum computing module used to optimize molecular design calculations and predict atomic configurations.",
+            "capabilities": [
+                "Optimizes molecular design calculations, reducing waste output",
+                "Enables real-time, adaptive fabrication for custom projects and rapid prototyping"
+            ]
+        },
+        {
+            "name": "Direct Energy Adapter & Ionization Pathway",
+            "description": "A system designed to integrate with the thorium reactor’s energy surplus, enabling high-speed ionization for advanced fabrication.",
+            "capabilities": [
+                "Boosts ionization and atomic manipulation speeds by 50%-60%",
+                "Minimal shielding required due to built-in field regulation"
+            ]
+        },
+        {
+            "name": "Advanced Materials Synthesizer",
+            "description": "A fabrication unit capable of producing rare or exotic materials from base elements.",
+            "capabilities": [
+                "Creates superconducting polymers",
+                "Synthesizes carbon nanotube composites",
+                "Produces advanced memory alloys"
+            ]
+        },
+        {
+            "name": "TeslaWoman Fabrication Hub",
+            "description": "A dedicated facility optimized for continuous resource processing and high-efficiency material fabrication.",
+            "capabilities": [
+                "Long-term resource storage with categorized preformed units",
+                "Automated material refinement for on-demand fabrication",
+                "Direct feed into Molecular Assembler for uninterrupted production"
+            ]
+        }
+    ]
+}
 
